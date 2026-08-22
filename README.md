@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 
 ## 👋 Introduction
-- Sogang University - Mathematics & Computer Science & Economics (2021.03 ~)
+- 공하은 | Kong Haeun
+- Sogang University | Mathematics · Computer Science · Economics (2021.03 ~)
 - Interested in Backend Development
 
 <br>
