@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%23FE7A16.svg?style=for-the-badge&logo=eclipse&logoColor=white)
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/VisualStudio-1572B6?style=for-the-badge&logo=visualstudio&logoColor=white"> 
+<img src="https://img.shields.io/badge/Visual Studio-1572B6?style=for-the-badge&logo=visualstudio&logoColor=white"> 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
